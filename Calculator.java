@@ -39,7 +39,7 @@ public class Calculator {
             case 3:
                 mult(a, b);
                 break;
-            
+
             default:
                 System.out.println("Please  Enter choice between 1-4");
         }
