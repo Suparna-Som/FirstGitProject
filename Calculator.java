@@ -16,7 +16,8 @@ public class Calculator {
     }
 
     private static void div(int a, int b){
-        
+        int c = a/b;
+        System.out.println("Division of given number"+a+"/"+b+"="+c);
     }
 
     public static void main(String args[]) {
